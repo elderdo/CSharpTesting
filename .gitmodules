@@ -1,0 +1,3 @@
+[submodule "GraphqlApp"]
+	path = GraphqlApp
+	url = git@github.com:elderdo/GraphqlApp.git
